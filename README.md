@@ -1,29 +1,29 @@
-# Olympic Analysis Project
+# 🏅 Olympic Analysis Project
 
 This project provides a comprehensive analysis of Olympic Games data, offering insights into historical performance, medal tallies, athlete demographics, and event-specific statistics. Built as an interactive web application using Streamlit, this project features various visualizations to enhance understanding and engagement.
 
 ---
 
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Project Structure](#project-structure)
-- [Acknowledgements](#acknowledgements)
+## 📑 Table of Contents
+- [✨ Features](#features)
+- [⚙️ Installation](#installation)
+- [🚀 Usage](#usage)
+- [🛠️ Technologies](#technologies)
+- [📂 Project Structure](#project-structure)
+- [🙏 Acknowledgements](#acknowledgements)
 
 ---
 
-## Features
+## ✨ Features
 
-- **Medal Tally**: View the total medal count by country for each Olympic year and season.
-- **Country-Wise Analysis**: Analyze performance metrics and visualize trends for individual countries.
-- **Athlete Analysis**: Explore athlete-specific data, including age, gender distribution, and participation trends.
-- **Interactive Graphs**: Visualizations using matplotlib, seaborn, and plotly to bring insights to life, including heatmaps, bar graphs, and time-series analysis.
+- **Medal Tally** 🥇: View the total medal count by country for each Olympic year and season.
+- **Country-Wise Analysis** 🌍: Analyze performance metrics and visualize trends for individual countries.
+- **Athlete Analysis** 🏃: Explore athlete-specific data, including age, gender distribution, and participation trends.
+- **Interactive Graphs** 📊: Visualizations using matplotlib, seaborn, and plotly to bring insights to life, including heatmaps, bar graphs, and time-series analysis.
 
 ---
 
-## Installation
+## ⚙️ Installation
 
 1. **Clone the repository**:
     ```bash
@@ -41,27 +41,27 @@ This project provides a comprehensive analysis of Olympic Games data, offering i
 
 ---
 
-## Usage
+## 🚀 Usage
 
 After launching the app, you can explore:
 
-1. **Medal Tally**: Choose a year or season to view medal counts.
-2. **Country Analysis**: Select a country to visualize its historical Olympic data.
-3. **Athlete Analysis**: Filter athletes by criteria such as age, gender, and sports.
-4. **Data Insights**: Use visualizations to explore trends in Olympic history.
+1. **Medal Tally** 🥇: Choose a year or season to view medal counts.
+2. **Country Analysis** 🌍: Select a country to visualize its historical Olympic data.
+3. **Athlete Analysis** 🏃: Filter athletes by criteria such as age, gender, and sports.
+4. **Data Insights** 📊: Use visualizations to explore trends in Olympic history.
 
 ---
 
-## Technologies
+## 🛠️ Technologies
 
-- **Python**: Data processing and analysis
-- **Streamlit**: Web application framework
-- **Matplotlib, Seaborn, Plotly**: Data visualization
-- **Pandas, NumPy**: Data manipulation and computation
+- **Python** 🐍: Data processing and analysis
+- **Streamlit** 🌐: Web application framework
+- **Matplotlib, Seaborn, Plotly** 📈: Data visualization
+- **Pandas, NumPy** 📊: Data manipulation and computation
 
 ---
 
-## Project Structure
+## 📂 Project Structure
 
 - **app.py**: Main application file for the Streamlit web app.
 - **olympic_analysis.ipynb**: Notebook containing data processing and visualizations.
@@ -70,7 +70,7 @@ After launching the app, you can explore:
 
 ---
 
-## Acknowledgements
+## 🙏 Acknowledgements
 
 This project uses data from the open-source Olympic dataset. Special thanks to libraries like Streamlit, matplotlib, seaborn, and plotly for providing robust tools to bring data to life.
 
