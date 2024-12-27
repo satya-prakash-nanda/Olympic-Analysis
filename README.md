@@ -13,6 +13,7 @@ This project provides a comprehensive analysis of Olympic Games data, offering i
 - [🙏 Acknowledgements](#acknowledgements)
 
 ---
+link- https://olympic-analysis-a8vkxswvycqiju3r62cvsd.streamlit.app/
 
 ## ✨ Features
 
